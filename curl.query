@@ -1,0 +1,7 @@
+curl http://localhost:11434/api/generate -d '{ \
+  "model": "gemma2", \
+  "prompt":"ถ้างูเข้าบ้าน เราควรทำยังไง", \
+  "stream": false \
+}'
+
+
